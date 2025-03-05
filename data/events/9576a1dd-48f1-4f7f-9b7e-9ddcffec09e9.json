@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "524c04f4-d699-471c-b0e5-29cf795825e6": {
+      "label": "Unheard",
+      "is_offline": false,
+      "file_url": "https://ia800700.us.archive.org/7/items/detection-of-deception/Unheard.mp3",
+      "duration": 2733,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Episode 4"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Unheard",
+  "created_at": "2025-03-05T00:43:43.568Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-03-05T00:43:43.568Z",
+  "updated_by": "saamturner"
+}
