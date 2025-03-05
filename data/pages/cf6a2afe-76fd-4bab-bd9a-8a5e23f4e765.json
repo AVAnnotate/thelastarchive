@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2025-03-05T00:41:31.019Z",
-  "created_by": "saamturner",
-  "title": "The Clue of the Blue Bottle",
-  "slug": "the-clue-of-the-blue-bottle",
-  "updated_at": "2025-03-05T00:41:31.019Z",
-  "updated_by": "saamturner",
-  "parent": "08e7d1f2-cfb7-493d-a208-811f3b71ed43",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "c79e9a63-7289-4798-9ebc-29c57e63d792"
-  }
-}
+{"content":[],"created_at":"2025-03-05T00:41:31.019Z","created_by":"saamturner","title":"The Clue of the Blue Bottle","slug":"the-clue-of-the-blue-bottle","updated_at":"2025-03-05T00:41:31.019Z","updated_by":"saamturner","parent":"08e7d1f2-cfb7-493d-a208-811f3b71ed43","autogenerate":{"enabled":true,"type":"event","type_id":"c79e9a63-7289-4798-9ebc-29c57e63d792"}}

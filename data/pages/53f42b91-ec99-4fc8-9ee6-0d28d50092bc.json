@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2025-03-05T00:46:12.298Z",
-  "created_by": "saamturner",
-  "title": "Detection of Deception",
-  "slug": "detection-of-deception",
-  "updated_at": "2025-03-05T00:46:12.298Z",
-  "updated_by": "saamturner",
-  "parent": "08e7d1f2-cfb7-493d-a208-811f3b71ed43",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "ff80c536-9fc8-4849-b88b-2fcdc18cfeaa"
-  }
-}
+{"content":[],"created_at":"2025-03-05T00:46:12.298Z","created_by":"saamturner","title":"Detection of Deception","slug":"detection-of-deception","updated_at":"2025-03-05T00:46:12.298Z","updated_by":"saamturner","parent":"08e7d1f2-cfb7-493d-a208-811f3b71ed43","autogenerate":{"enabled":true,"type":"event","type_id":"ff80c536-9fc8-4849-b88b-2fcdc18cfeaa"}}
