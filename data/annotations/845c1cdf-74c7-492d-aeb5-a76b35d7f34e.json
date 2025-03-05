@@ -1,5 +1,720 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 24,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unfortunately, it's a mess in here - half the time, I can't find what I came for"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "1780bf95-8716-4d5f-8d5a-519e7f241e6b"
+    },
+    {
+      "start_time": 69,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking footsteps and a door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "52344f52-f416-49e0-961e-265af2c139a1"
+    },
+    {
+      "start_time": 78,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound clips from radio"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "edc07262-bd19-461f-9c4a-a423ce49b76f"
+    },
+    {
+      "start_time": 124,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore says she knows for sure that Ellison left New York that day, but she doesn't know if he listened to the radio while packing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "587119a5-e128-40eb-b401-0ba2e97faa46"
+    },
+    {
+      "start_time": 131,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discusses historical imagination - you can't make things up, but you do have to picture them"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "400eacef-ef3c-4bdd-ab44-cd27f615935b"
+    },
+    {
+      "start_time": 164,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ellison was interested in sound, what you can notice by hearing and listening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "00bab892-a171-4f85-9aec-c482a0ab34c9"
+    },
+    {
+      "start_time": 210,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background music like one would hear on the radio in those days"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "147d100c-14d2-4198-811e-c146270ce08c"
+    },
+    {
+      "start_time": 241,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore is interviewing Diana Bates, daughter of Ellison's friend"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "c9d9c680-abd1-46d7-98b4-c013283af400"
+    },
+    {
+      "start_time": 281,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also interviewing Diana's little sister, Grace"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "e3268028-8a3b-41a6-be17-20b8ed1fb618"
+    },
+    {
+      "start_time": 298,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background sounds of chirping birds, insects, etc. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "50b0903b-b5e2-470e-9429-c98e9e128a91"
+    },
+    {
+      "start_time": 400,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenacting the voice of a black man from the south that Ellison heard in his head"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "ab9d4db4-d674-49ac-819c-c564007757cd"
+    },
+    {
+      "start_time": 422,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore having Grace read the opening lines of Ellison's book - is Grace a white woman?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "85fe8955-4478-4fd5-8bf3-8796f988e814"
+    },
+    {
+      "start_time": 516,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenacting Ellison and Robert Penn Warren talking? Unclear if it's a reenactment or recording"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "79b49d92-4345-4af1-9885-63baaa2c2351"
+    },
+    {
+      "start_time": 593,
+      "end_time": 593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interview with Ellison and a white interviewer - again, unclear if it's a recording"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "f15a7709-5b92-44d2-a39a-46b1a81badbf"
+    },
+    {
+      "start_time": 673,
+      "end_time": 673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music playing in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "a81c7013-1d84-4769-a5a3-40feac5be7e4"
+    },
+    {
+      "start_time": 705,
+      "end_time": 705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More interviews with Ellison - starting to think it is an actual recording"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "54a839a2-f746-4e92-9ecb-666019a6f9d7"
+    },
+    {
+      "start_time": 727,
+      "end_time": 727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the first time Lepore acknowledges we are actually listening to a recording of Ellison"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "5439d2f2-6653-4e35-98ac-cf54089b9903"
+    },
+    {
+      "start_time": 856,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reels that can be unspooled, voices that can be heard in the last archive"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "166ff6bc-e93e-4eb0-8fb7-c9c4cb243f87"
+    },
+    {
+      "start_time": 986,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore states that when the last generation of those born into slavery were gone, the evidence of slavery from their memories would be lost"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "88292da1-a31c-497d-8d32-c47bfe08b6f4"
+    },
+    {
+      "start_time": 1093,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the historical record, words spoken by black people are rare"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "5eb12271-eed7-41b6-a0fa-5bdc44007520"
+    },
+    {
+      "start_time": 1109,
+      "end_time": 1109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenactment of a court official recounting the \"negro oath\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "ae377e94-6bb1-452a-92d3-dc2122c7e99e"
+    },
+    {
+      "start_time": 1186,
+      "end_time": 1186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A judge providing his reasoning for why \"negro evidence\" can't be taken seriously"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "e56c70c9-2362-406a-bf34-888484b8cc89"
+    },
+    {
+      "start_time": 1277,
+      "end_time": 1277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore raising questions about the \"truth\" of the oral histories - asking why so many former slaves said their owners were good to them"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "a6358503-7481-41ec-b835-c215366eac5b"
+    },
+    {
+      "start_time": 1389,
+      "end_time": 1389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore points out the leading questions in the oral histories"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "26fc88ac-da6f-4d21-b289-42e28023aaa0"
+    },
+    {
+      "start_time": 1420,
+      "end_time": 1420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore encouraging the listeners to use our historical imaginations"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "e2ef899c-e997-4ab4-a5ab-e9fb806cad8a"
+    },
+    {
+      "start_time": 1520,
+      "end_time": 1520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore interviewing Isabella Wilkerson, who wrote about the great migration"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "ecfa61cf-7b2c-47b6-a5e8-904258edcbbd"
+    },
+    {
+      "start_time": 1704,
+      "end_time": 1704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenactment of a story told to Ellison by a black man he met on a street corner?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "e0fd6b44-d5c3-4933-b1fa-6e247e99b552"
+    },
+    {
+      "start_time": 1749,
+      "end_time": 1749,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We learn that the story we just heard was written down by Ellison - so it wasn't recorded orally?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "42d208f9-fdb1-4fe6-83ea-f9b9330e7f24"
+    },
+    {
+      "start_time": 1799,
+      "end_time": 1799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Understanding folklore as a kind of evidence"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "3dbf3a0e-768e-4641-b969-d75d6844892b"
+    },
+    {
+      "start_time": 1849,
+      "end_time": 1849,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background noise of birds chirping"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "6a77fab7-1541-4baf-8b46-5b5920af1420"
+    },
+    {
+      "start_time": 1875,
+      "end_time": 1875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We get another actual sound clip of Ellison on a show"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "a2e1a876-3262-4f90-b4b8-4d43af24a6e4"
+    },
+    {
+      "start_time": 1981,
+      "end_time": 1981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore describes Ellison as a radio playing the voice of every black person in the country"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "bb81694f-e819-425c-b53f-c88e74c931e0"
+    },
+    {
+      "start_time": 2095,
+      "end_time": 2095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore claims that Ellison didn't write another book because he was daunted that he himself had become evidence"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "5b41c394-c7d4-4858-b97b-4c4e2d57186f"
+    },
+    {
+      "start_time": 2226,
+      "end_time": 2226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Black Lives Matter movement is about evidence - capturing for whites what had been unheard, unseen, unknown?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "631a7833-11e8-47c0-bfb4-087d75fa5cd8"
+    }
+  ],
   "set": "Default",
   "event_id": "9576a1dd-48f1-4f7f-9b7e-9ddcffec09e9",
   "source_id": "524c04f4-d699-471c-b0e5-29cf795825e6"
