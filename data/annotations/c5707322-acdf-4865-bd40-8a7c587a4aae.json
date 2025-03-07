@@ -1,5 +1,804 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 169,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking of the door opening to the year 2019"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "4d4e7767-32c0-4b81-b355-5b7144df6b3d"
+    },
+    {
+      "start_time": 182,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Different approach to the start of this episode - it sounds like Lepore is walking on the street trying to find a building"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "68497d86-bafb-4ce4-993a-5dd9835924cb"
+    },
+    {
+      "start_time": 220,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you are trying to understand someone, you owe it to them to go to where they were and \"breathe their air\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "5a61c0f1-1abc-4e37-b14c-d8a6e61d107c"
+    },
+    {
+      "start_time": 254,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In search of the Shakespeare Gallery, where an invisible lady was put on display in 1804"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "507786d1-446f-4779-a410-2e9ab46c9425"
+    },
+    {
+      "start_time": 312,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interesting switch from previous podcasts - not starting out with reenactments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "56ecb045-75ba-4180-98f0-5080e8cb5dfd"
+    },
+    {
+      "start_time": 373,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ping and Siri asking a question"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "26f8abe1-b05f-4f78-9094-a147f9093754"
+    },
+    {
+      "start_time": 373,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The invisible lady is compared to Siri"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "8675ae1f-9988-4d5f-b02f-bda3f1857e46"
+    },
+    {
+      "start_time": 382,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why can women know things only when they're disembodied?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "8093a85c-40b3-47c5-827c-e921d5811f6f"
+    },
+    {
+      "start_time": 397,
+      "end_time": 397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background sounds of hooves clopping, crowds roaming about"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "182eca87-afe6-490d-a19d-50f08d7ea061"
+    },
+    {
+      "start_time": 423,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenacting newspaper headlines about the arrival of the invisible lady"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "82778197-9b3c-42c7-9a57-25558b1bb91e"
+    },
+    {
+      "start_time": 486,
+      "end_time": 486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably it sounded something like this - talking about the invisible lady's voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "9b80696a-957b-406b-bccc-bf77d55b617d"
+    },
+    {
+      "start_time": 486,
+      "end_time": 486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The eerie, far-away sound of the invisible lady's voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "3874e50e-6ca1-440b-8020-0838d8a8ec42"
+    },
+    {
+      "start_time": 589,
+      "end_time": 589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distinguishing between mystery in the old sense versus the new sense - a secret to be discovered"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "79ff8058-ab84-4490-95d1-b7884254bfc8"
+    },
+    {
+      "start_time": 634,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore says she is violating the one pledge of all mysticism - she is talking about how the box worked"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "e0a89be3-2278-44fb-ba6e-2fa85bfd126b"
+    },
+    {
+      "start_time": 731,
+      "end_time": 731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore argues that the invisible lady is all about the thrill of invading a woman's privacy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "b5b42334-9f47-41e1-914a-d9a79689f259"
+    },
+    {
+      "start_time": 761,
+      "end_time": 761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore describes how she was poking around the last archive - she is making it into a physical space"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "d4516350-ecfd-4a6e-84cd-39defdad497f"
+    },
+    {
+      "start_time": 785,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Higginson reading out a portion of his essay on the invisible lady"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "41d450b3-e1a2-43c5-b416-ceba77ba578e"
+    },
+    {
+      "start_time": 807,
+      "end_time": 807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore argues that Higginson's article is about the Victorian \"fetish\" for privacy - for keeping women out of view"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "9d22922f-d880-479a-9446-5dd869099a24"
+    },
+    {
+      "start_time": 857,
+      "end_time": 857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The voice of Emily Dickinson reading out a portion of a letter she wrote to Higginson"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "a742f292-b300-4a94-8e53-1790ad9f47da"
+    },
+    {
+      "start_time": 872,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I like to think that when he got upset about the cult of the invisible lady, he was worrying about Dickinson"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "680d0e83-915a-431d-80c9-206e2b43c00e"
+    },
+    {
+      "start_time": 904,
+      "end_time": 904,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I read Dickinson's poems, it's as if I can hear her speak to me from her box of glass"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "50cedd26-4d60-4b26-84d2-2f7fa09ac2c8"
+    },
+    {
+      "start_time": 911,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dickinson reading part of her poem, but this time in the faraway sound from the glass box"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "ebdeba86-3a4d-4e05-b955-ac05fd35dff3"
+    },
+    {
+      "start_time": 964,
+      "end_time": 964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Talks about turning over boxes, unlocking ancient trunks, etc. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "bf6d412c-f15f-45fa-b19f-13cc0e32cfa7"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murmuring voices and funeral music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "db57db10-54bb-41b6-aa87-c09f09b696ed"
+    },
+    {
+      "start_time": 1161,
+      "end_time": 1161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reading out newspaper reporting on Louisa Bayard being laid to rest"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "650e88d0-b45d-40dc-8aec-8e1be950ebe9"
+    },
+    {
+      "start_time": 1179,
+      "end_time": 1179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore assures us that everything we know about the funeral comes from a law journal article"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "b320ed49-c2e6-46e9-97f4-2169d2a1634a"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Equating a person who desired privacy with an invisible lady"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "e269fcf2-9f93-4eca-8591-a97885fca823"
+    },
+    {
+      "start_time": 1399,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussing the 1890 law article about the right to privacy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "9cfdd671-5cdf-4b06-9b32-5266c1818786"
+    },
+    {
+      "start_time": 1451,
+      "end_time": 1451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore reinforcing that the right to privacy is about keeping women unseen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "68ed55f3-52ed-4f88-8cd4-ba015461a7f2"
+    },
+    {
+      "start_time": 1534,
+      "end_time": 1534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Connecting the right to privacy to Philosopher William James's concept of the hidden self"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "4507d4d1-5374-436d-a618-013222ebef9e"
+    },
+    {
+      "start_time": 1593,
+      "end_time": 1593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I watched it [The Invisible Man] dimly projected in the recesses of the last archive"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "d3f1a1c4-ea43-4bb1-8784-8c4ec96f8c84"
+    },
+    {
+      "start_time": 1952,
+      "end_time": 1952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lengthy description of The Invisible Man (the movie) and multiple sound clips from the movie"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "9442a0c9-2c98-47ae-87cf-3b025246fa71"
+    },
+    {
+      "start_time": 1989,
+      "end_time": 1989,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore connecting discussion to initial reactions to radio in the 1930s - the unsettling nature of a disembodied voice with music/sound effects"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "b60a4733-50b2-401c-96ca-a1283306bbbc"
+    },
+    {
+      "start_time": 2018,
+      "end_time": 2018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenactment of a radio release by Hitler's press guy?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "782bdf55-5e9c-401e-b94b-ca429bc1a192"
+    },
+    {
+      "start_time": 2018,
+      "end_time": 2018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Connecting concerns about radio to Nazi Germany"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "8e23a847-263d-4c43-91f7-681b1c72175d"
+    },
+    {
+      "start_time": 2345,
+      "end_time": 2345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Returning to the idea of Alexa and Siri as a the modern invisible ladies"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "e2a01226-7258-43b1-a56a-21aff5ca8331"
+    },
+    {
+      "start_time": 2388,
+      "end_time": 2388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound clips of Lepore and her producer talking to Alexa"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "5eebcc1d-13b8-40aa-9aee-8cac654753ef"
+    },
+    {
+      "start_time": 2388,
+      "end_time": 2388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alexa is described as \"evasive\"??"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "045be276-81fd-451c-9025-b68442c755f1"
+    }
+  ],
   "set": "Default",
   "event_id": "13a90694-6b9a-4610-b159-2aeb11b41982",
   "source_id": "2efe0f7c-7c10-4892-b2e1-0be014e225ba"
