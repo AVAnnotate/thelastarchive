@@ -1,5 +1,1308 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 75,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First descriptions of the last archive include a corridor of the mind, shelves stuffed with proof"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "2dab6ed5-1807-438e-ae14-21e51c7d0ecd"
+    },
+    {
+      "start_time": 79,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faint sount of light footsteps in the background; sense that Lepore is walking somewhere"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "cbfeaf09-f8a4-4096-9e3b-07413042451b"
+    },
+    {
+      "start_time": 118,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore is describing the archive as if it is a physical space - items are cluttered, and some roll away under the shelf so she has to bend to pick them up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "dec3815e-c4ea-42b7-ac0a-9844dd93c4c3"
+    },
+    {
+      "start_time": 123,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Footsteps are not only faint, but are creaking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "8519c9d9-8f5c-4671-905f-13669cf18008"
+    },
+    {
+      "start_time": 147,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Primary goal: to uncover how we know what we know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "f6d54ed9-64b4-495a-87ea-6ef42d4186fd"
+    },
+    {
+      "start_time": 153,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of a door opening as Lepore introduces 'the last archive'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "01e8e7d8-d1b7-46d8-8947-5659e84a6491"
+    },
+    {
+      "start_time": 192,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Harold Jackson discovers body, gasps, and runs to inform a policeman"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "e0ac7d74-e281-4084-b832-d9bc24a50576"
+    },
+    {
+      "start_time": 205,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very vivid descriptions - Lucina's body is described as laying \"pale and animal\" against the grass"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "e35ce381-412f-426c-83d2-8f9589b9d683"
+    },
+    {
+      "start_time": 210,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lucina described as a kill, something hunted, a fox in a trap, a fish on a hook, a bird on a  spit"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "20a9eed8-9d23-4d34-81fc-c3bfbed722df"
+    },
+    {
+      "start_time": 261,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Crowd of people gathered around the dead body; prolonged scream"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "edaf5d2b-d0db-4b30-a7df-5733846fce73"
+    },
+    {
+      "start_time": 273,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pointing to the stereotypes of so many murder mysteries"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "57a6d274-20cc-4598-bfee-bcc84124d7b8"
+    },
+    {
+      "start_time": 325,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using Lucina's case and other examples to ask the question \"Who killed truth?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "740cdd81-c2bf-47c4-b4b6-7f0aa828dd23"
+    },
+    {
+      "start_time": 388,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very faint sound of thunder in background?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "ad25d0c5-7968-4281-a6a4-e56e5126336c"
+    },
+    {
+      "start_time": 408,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of camera flashbulb going off"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "fd923a90-2e8e-4258-aa03-f02fc6a2e711"
+    },
+    {
+      "start_time": 419,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore describes the visceral physical reaction she has to discovering the photo of Lucina's corpse"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "24432e46-a9b5-4a6e-90be-2578961a9c01"
+    },
+    {
+      "start_time": 447,
+      "end_time": 447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore is intent on describing Lucina as a silenced woman - she wants to make Lucina \"speak\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "f9e33dd2-e3a7-444b-9480-083d4dc4d1c1"
+    },
+    {
+      "start_time": 549,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore imagines the way a reporter would have sounded - she instills her own understandings/perspective into the \"investigation\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "7d9786e1-4679-4f40-bc78-7f6124f04743"
+    },
+    {
+      "start_time": 567,
+      "end_time": 567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reporter's voice reading aloud what he is typing down about the case; note that Lepore is stating that this is how she imagines reporters talked"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "72dfcffe-6426-4983-aaa6-becf04be5524"
+    },
+    {
+      "start_time": 620,
+      "end_time": 620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore notes that the style of reporting used in the local newspaper resembles true crime fads of the time"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "ab000144-336c-4d3a-9f32-876aba8de04c"
+    },
+    {
+      "start_time": 630,
+      "end_time": 630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clacking typewriter keys"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "ac5db138-8696-4249-83c9-315ed7cb25a2"
+    },
+    {
+      "start_time": 646,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythmic ticking sound - very likely the ticking of a clock"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "e1ba137d-cc2e-4fec-850d-e3823e2991b2"
+    },
+    {
+      "start_time": 678,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hooves clopping"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "e6bcc002-34cb-4149-b06e-7fb1306a1a4f"
+    },
+    {
+      "start_time": 720,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Historians are coroners too - Lepore compares her investigation to an autopsy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "802f477c-c0ba-46f9-92c3-8f8175e16009"
+    },
+    {
+      "start_time": 785,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A man's voice dramatically reading the options provided on a bill of mortality"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "c2c25c6a-b0a9-4707-a1b4-efc3fc52b617"
+    },
+    {
+      "start_time": 838,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Odd insistence of the poetry surrounding a \"bill of mortality\" - is Lepore doing the same type of romanticizing that she somewhat criticizes in true crime content?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "87b2803c-164b-4834-8118-4bb13a4998a3"
+    },
+    {
+      "start_time": 839,
+      "end_time": 839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medical examiner reading out options from cause of death list; reading in a much more monotone voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "1b7558a8-8f98-462c-be60-869dc57bed54"
+    },
+    {
+      "start_time": 853,
+      "end_time": 853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dramatic voice returns for what Lepore would have chosen from the bill of mortality"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "21b77938-485e-4a9c-ac7b-f12597e51212"
+    },
+    {
+      "start_time": 860,
+      "end_time": 860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Monotone voice of medical examiner returns for Lucina's listed cause of death"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "8e0fdc55-a3c1-4554-b398-b80587ba2cce"
+    },
+    {
+      "start_time": 925,
+      "end_time": 925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phone ringing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "cc2d3336-0fea-4494-a473-11c9aca25d12"
+    },
+    {
+      "start_time": 930,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction of James R. Wood, the outside detective hired to investigate Lucina's case"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "4ad068eb-e5f5-45fd-8dbd-86bbb9e9514b"
+    },
+    {
+      "start_time": 982,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of a train chugging"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "9c08486d-512a-4b85-bf62-d4b6c0e5d855"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore first mentions James R. Wood's detective notebook; most of what his re-enacted voice says comes from the notebook itself"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "9fb8cf61-3ece-4d5c-9693-acbbc825553e"
+    },
+    {
+      "start_time": 1083,
+      "end_time": 1083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Labeling a clue as a type of fact - are they always the same?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "4876dc81-fba4-48d2-8058-499cde4ebbcf"
+    },
+    {
+      "start_time": 1133,
+      "end_time": 1133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James R. Wood's voice recounting some of the clues he wrote down in his notebook"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "3bbd9dd5-6ed1-4301-9c0e-ae4e957ff4c8"
+    },
+    {
+      "start_time": 1193,
+      "end_time": 1193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Any time Lepore wants to recall something from James R. Wood's notebook, \"his\" voice is used"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "b63065e1-e3da-45ae-97bd-5b2e5f8ee86d"
+    },
+    {
+      "start_time": 1256,
+      "end_time": 1256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lucina Broadwell's \"voice\" used to read out a portion of a letter that she wrote to Grace Grimes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "d683d31b-19f0-48f0-864b-7195f440960c"
+    },
+    {
+      "start_time": 1268,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Assurance that we know something was said if it was written in the historical document - does this leave room for human error in recording what was said?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "86e2a1f5-18d6-4696-8aa6-5611db41d9f0"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why does Lepore choose to re-enact something that we don't technically have firsthand knowledge of (i.e., the letter)?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "3b1bbc04-3e54-4de1-81cd-15a347413379"
+    },
+    {
+      "start_time": 1436,
+      "end_time": 1436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of footsteps in hotel room"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "49b3cf4d-629b-4caa-8b1f-30557c49d629"
+    },
+    {
+      "start_time": 1475,
+      "end_time": 1475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Re-creation of moments from James Wood's interrogation of George Long"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "b0879c4a-c17f-4ac3-ae0a-6d3306626422"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of shuffling paper"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "8fed72f5-ef8a-4102-8523-07a8fc091272"
+    },
+    {
+      "start_time": 1521,
+      "end_time": 1521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continued use of creaking foostep sounds"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "8fffc0af-3b30-4897-b0d4-fd574f72e0b0"
+    },
+    {
+      "start_time": 1580,
+      "end_time": 1580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very faint sounds of a crowded room?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "3072435e-b33e-478a-8f13-a05887a47ea6"
+    },
+    {
+      "start_time": 1591,
+      "end_time": 1591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of typewriters clacking and a gavel hitting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "7257701f-5554-45fe-a478-76c45ed8b35a"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recreation of moments from George Long's trial; specifically, George long being questioned and giving testimony"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "4957b948-adcd-414d-a62b-76869c30e3e5"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The court calls James Wood to the stand to testify about his interrogation of Long"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "36b10771-1da3-4c5d-b74b-02daf8194382"
+    },
+    {
+      "start_time": 1702,
+      "end_time": 1702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James Wood is questioned by Long's lawyer about keeping Long for a four-day interrogation at the Barre Hotel"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "111b53ee-fa52-4de0-8d1c-a3c447fe58ac"
+    },
+    {
+      "start_time": 1800,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jury reading out their verdict"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "35099455-c558-4a37-aa7b-1a15f6013664"
+    },
+    {
+      "start_time": 1805,
+      "end_time": 1805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gavel banging and sounds of murmured surprise from crowd"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "7d661c9d-4d66-45bd-86ce-3a48c9ccf1ea"
+    },
+    {
+      "start_time": 1896,
+      "end_time": 1896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clacking typewriter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "f35219e9-25e1-4349-9302-0302884c9f9c"
+    },
+    {
+      "start_time": 1903,
+      "end_time": 1903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The assumption that the trial transcripts would be buried deep in the Vermont State Archives - upholding the idea of archives as buried treasure"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "8ec9d38a-ae69-405c-8234-3eaa68ce881a"
+    },
+    {
+      "start_time": 1917,
+      "end_time": 1917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background sounds of driving to the Vermont State Archives"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "85526fdf-e1e1-45b7-a19d-e855927f78c5"
+    },
+    {
+      "start_time": 1974,
+      "end_time": 1974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking doors and shuffling - but unlike other sound effects, these are left-in background noises from Lepore's actual visit to the state archives"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "7cf43d11-e25d-4bf2-89c5-6244900dc65a"
+    },
+    {
+      "start_time": 2029,
+      "end_time": 2029,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The state archivist discusses the moment of discovery when you unearth something lost"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "498123ac-2c0a-4cd0-8cad-3b40e17377b1"
+    },
+    {
+      "start_time": 2087,
+      "end_time": 2087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recreation of a portion of the interrogation between James Wood and George Long that could not be printed because it involves the use of birth control"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "910a5570-7289-4bc8-b4ae-5eb2b2f3ac01"
+    },
+    {
+      "start_time": 2167,
+      "end_time": 2167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore making an observation about what could be printed - details of the murder were not obscene, but details about birth control were"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "c9be9cf0-94bc-4a1d-91df-0aa13d312702"
+    },
+    {
+      "start_time": 2309,
+      "end_time": 2309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Archivist describing Barre as being weighted with history"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "c44740fe-4b8b-493f-a97f-43f1fa603d0b"
+    },
+    {
+      "start_time": 2405,
+      "end_time": 2405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poignant moment where Lepore visits the site where Lucina's corpse was discovered"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "7a6a3c6d-2a35-4470-b4ed-cd20acac5922"
+    },
+    {
+      "start_time": 2423,
+      "end_time": 2423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore discusses the fact that, for a long time, only men could serve on juries - only men could decide matters of fact"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "23b6630e-c58c-4dc5-a773-7b6499f19496"
+    },
+    {
+      "start_time": 2479,
+      "end_time": 2479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women in Vermont were not allowed to jurors until 1943"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "47e7f97d-59eb-4b09-981a-e9b0d90b8c72"
+    },
+    {
+      "start_time": 2490,
+      "end_time": 2490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore discusses Maude Wood Park - \"like me, she couldn't stand the thought of silenced women\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "e0138c1f-8d95-4e79-9b12-b0e03ba33b01"
+    },
+    {
+      "start_time": 2536,
+      "end_time": 2536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore repeatedly describes Lucina's corpse as \"animal\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "966abf03-e2b6-4751-8f70-955cdba94ebc"
+    }
+  ],
   "set": "Default",
   "event_id": "6568f5c5-c01b-4e22-8b6e-84e5af53ea29",
   "source_id": "b7b77923-082a-48fd-a4b6-b6635724e912"
