@@ -1,5 +1,972 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 146,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feet creaking on floor and door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "52632e69-4164-4e54-9c0f-82939cf394f7"
+    },
+    {
+      "start_time": 180,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Setting WMM up as handsome, charming, rogue-ish"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "8e7d5a8c-38f3-4197-84fb-95d85d550695"
+    },
+    {
+      "start_time": 203,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beginning of a reenactment where WMM tests out the unreliability of eyewitnesses during his lecture"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "7aec3120-71f8-4c9b-af9e-c114aa9eaf70"
+    },
+    {
+      "start_time": 257,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What happened next, I like to imagine - Lepore taking liberties with the unknown"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "fff191c9-d9a4-4be0-8e68-e70190eb53e1"
+    },
+    {
+      "start_time": 340,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These too are actors, and this too has been a charade, an experiment"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "1197a3b4-bd43-4eb5-a922-ae1788ecdbf2"
+    },
+    {
+      "start_time": 349,
+      "end_time": 349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ticking of a clock and buzzer going off"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "171b688e-9114-4a87-890d-01e56217ccc1"
+    },
+    {
+      "start_time": 467,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This episode is going to focus on the invention of the lie detector"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "57b70a7f-403f-4de5-aaff-fb942af8a83d"
+    },
+    {
+      "start_time": 483,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The lie detector is different from the polygraph - WMM invented the lie detector, which tests blood pressure"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "f0d8efe2-0e8a-46c2-8e5e-dc804c2de31f"
+    },
+    {
+      "start_time": 509,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WMM describing how the lie detector works (presumably to his students?) - Lepore then describes it as a movie scene that we would all be familiar with"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "7c0875ae-416a-4158-935a-e16a3e4af871"
+    },
+    {
+      "start_time": 592,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore returning to the idea of the ordeal, which she talks about at length in Ep. 1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "b4396b1a-74f2-4662-9cbe-0f40310982d9"
+    },
+    {
+      "start_time": 645,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WMM thought the lie detector would prevent police from beating suspects up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "3d6fdad0-5c10-4120-8103-603f0a5c176f"
+    },
+    {
+      "start_time": 664,
+      "end_time": 664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Start to get a reenactment of a police interrogation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "843bb7ce-a26b-4bdb-a629-96e42d631205"
+    },
+    {
+      "start_time": 669,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We meet James Alphonso Frye"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "e28b04b1-61be-4c3c-bc74-9d812d489663"
+    },
+    {
+      "start_time": 688,
+      "end_time": 688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenacting Frye writing about himself later"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "1e9d5d24-9fe8-4e96-976f-715f48d89727"
+    },
+    {
+      "start_time": 705,
+      "end_time": 705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frye charged with the murder of Dr. Brown, the richest black man in Washington - do we know yet that Frye is also black?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "52c28008-1909-45fb-ab4a-58fced0fb26c"
+    },
+    {
+      "start_time": 783,
+      "end_time": 783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frye is linked to the murder of Dr. Brown - and we learn he is black"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "270e2154-7231-4612-b38b-92fe635ef2f8"
+    },
+    {
+      "start_time": 808,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They wouldn't have recorded an interrogation in 1922 but there was a transcript"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "1768bb65-5710-440d-a193-56af5cea6eeb"
+    },
+    {
+      "start_time": 812,
+      "end_time": 812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verbal reenactment of a written transcript - we don't know what the voices would have sounded like"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "901d3163-1df2-4dd9-bcb2-f0cf2d57b4c4"
+    },
+    {
+      "start_time": 838,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Switching back and forth between reenactment and Lepore's descriptions of the transcript"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "34a3a4b1-1218-4407-a75a-3531d1e12605"
+    },
+    {
+      "start_time": 876,
+      "end_time": 876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenactment and Lepore's own take are that the admission was cautious - how do we know that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "d7d65be3-7130-4100-be6f-3087ec0fe2f7"
+    },
+    {
+      "start_time": 916,
+      "end_time": 916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can see things in a photograph that you can't see in a transcript"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "48535137-856b-4552-8d9f-e6f046e2780b"
+    },
+    {
+      "start_time": 932,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore notes that the photograph is structured in a way to show a black man surrounding by white men trying to \"read\" his body"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "a231cc6d-29a1-45c5-84ce-99b0ab9968ea"
+    },
+    {
+      "start_time": 938,
+      "end_time": 938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Actor playing Frye recounts his experience of being hooked up to the lie detector"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "ae09ccd3-d9b5-417b-9c40-8c4d0881419a"
+    },
+    {
+      "start_time": 1034,
+      "end_time": 1034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Footsteps as Frye walks to the front of the courtroom to testify"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "60f5cd03-7b65-4eae-8092-839cb5541faf"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of water pouring into a glass"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Sound Effects"
+        }
+      ],
+      "uuid": "ea77f5d0-f9a0-4628-a9f6-20d7078ccfb6"
+    },
+    {
+      "start_time": 1065,
+      "end_time": 1065,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frye later writes that it was impossible for a black man in Washington in 1922 to get a fair trial"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "cb721049-3abd-47ac-95cb-121cb53e26af"
+    },
+    {
+      "start_time": 1081,
+      "end_time": 1081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frye's \"voice\" recounting the ways in which he will be guilty no matter what"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "89d3ab99-7bd0-4080-9d43-c4dcdb1e5690"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Setting up a distinction between other people finding the truth and a machine finding the truth"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "991ea265-e3ae-44c6-9ea5-3c75ed678f6c"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore acknowledging that in the early 1920s only white men could serve on a jury"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "7fe7fee3-fe1d-4d0e-95bf-13be6707d42f"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore: \"I love this part - the jousting, the little duel\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "aaf11e92-d264-4126-8e4c-163e81324a53"
+    },
+    {
+      "start_time": 1287,
+      "end_time": 1287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenactment of the judge paints him as condescending towards the lie detector - do we know this for sure?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "84e031f4-c557-4300-afed-78b1671d3c10"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore calls the judge a \"piece of work,\" but this is based on the reenactment?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "5a27eccf-321b-428c-a650-b6e3fb53f8ec"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's not an accident that his test subject was a penniless black man accused of murder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "d33ed953-11cf-498d-a86f-b8e4ffae2373"
+    },
+    {
+      "start_time": 1509,
+      "end_time": 1509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore acknowledging the \"Negro problem\" that many social scientists of that time wanted to solve"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "8879b8a3-8cb0-482e-a8f0-720b1f3f4e0d"
+    },
+    {
+      "start_time": 1564,
+      "end_time": 1564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Getting expert insight from a colleague of Lepore's at Harvard"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "2849c21b-748f-4354-b842-1300f3830875"
+    },
+    {
+      "start_time": 1719,
+      "end_time": 1719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WMM wanted to turn Frye into numbers to prove that he was innocent - almost a white savior approach?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "c8414010-a31c-4d32-96b2-64b23be309b8"
+    },
+    {
+      "start_time": 1780,
+      "end_time": 1780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore makes several assumptions - she thinks WMM actually wrote the appeal, not his students"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "310286f9-ec56-40f0-9e75-ec4ba0e07c9e"
+    },
+    {
+      "start_time": 1874,
+      "end_time": 1874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Courts ruled against Frye and the lie detector - set something up called the Frye Test"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "a0edd392-f27c-4c99-bef6-ea3eb730a66a"
+    },
+    {
+      "start_time": 1897,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Listen for what the rule says, but listen too to what it doesn't say"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "f0608248-02b7-4a29-99e8-8ef931e54ac6"
+    },
+    {
+      "start_time": 1899,
+      "end_time": 1899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voice actor reading the Frye Test guidelines"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Reenactments"
+        }
+      ],
+      "uuid": "a356d8a7-5c55-49bb-83ec-5e4a08fb1435"
+    },
+    {
+      "start_time": 1968,
+      "end_time": 1968,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WMM was arrested for fraud between Frye's conviction and appeal - WMM was a notorious liar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "08ee7480-5645-4f17-9053-002505423e5c"
+    },
+    {
+      "start_time": 1995,
+      "end_time": 1995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore interviews WMM's son about the lie detector test"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "403ed226-0f2e-48ec-8375-ad2358ad04e8"
+    },
+    {
+      "start_time": 2283,
+      "end_time": 2283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WMM is painted as a sort of silly character even though he committed fraud and lied frequently"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "ba2863ed-7202-4f71-9eca-2328790e106b"
+    },
+    {
+      "start_time": 2310,
+      "end_time": 2310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WMM moves to Hollywood to work as a consulting psychologist on films"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "37e3886f-3537-47ef-ac24-7ee3c8fc132b"
+    },
+    {
+      "start_time": 2351,
+      "end_time": 2351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hold on to your hats - here comes the real voice of WMM"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "a707e093-bd72-4417-a90f-78b1042820e6"
+    },
+    {
+      "start_time": 2591,
+      "end_time": 2591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lepore claims that she knows for certain that Frye did not get a fair trial"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Type",
+          "tag": "Content"
+        }
+      ],
+      "uuid": "7ec95cd4-da62-44d7-99ef-0d4f265eacf8"
+    }
+  ],
   "set": "Default",
   "event_id": "ff80c536-9fc8-4849-b88b-2fcdc18cfeaa",
   "source_id": "e86ca8a9-8482-465f-9c61-93b5bcb2f59e"
