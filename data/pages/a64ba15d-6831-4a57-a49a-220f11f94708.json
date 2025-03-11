@@ -1,51 +1,19 @@
 {
   "content": [
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "grid",
       "layout": [
-        4,
-        2
+        3,
+        3
       ],
       "children": [
         {
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "url": "https://archive.org/download/episode1image1/episode1image1.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
+              "size": "medium",
               "children": [
                 {
                   "text": ""
@@ -130,7 +98,7 @@
   "created_by": "saamturner",
   "title": "The Clue of the Blue Bottle",
   "slug": "the-clue-of-the-blue-bottle",
-  "updated_at": "2025-03-11T15:48:58.362Z",
+  "updated_at": "2025-03-11T15:54:34.590Z",
   "updated_by": "saamturner",
   "parent": "0d316704-0091-4075-b4c3-d9f3d72c34dc",
   "autogenerate": {
