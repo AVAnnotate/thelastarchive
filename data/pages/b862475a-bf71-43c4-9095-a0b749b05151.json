@@ -84,8 +84,7 @@
       "uuid": "9576a1dd-48f1-4f7f-9b7e-9ddcffec09e9",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -106,7 +105,7 @@
   "created_by": "saamturner",
   "title": "Episode 4: Unheard",
   "slug": "episode-4-unheard",
-  "updated_at": "2025-03-11T16:42:55.224Z",
+  "updated_at": "2025-03-11T16:45:13.389Z",
   "updated_by": "saamturner",
   "parent": "0d316704-0091-4075-b4c3-d9f3d72c34dc",
   "autogenerate": {
