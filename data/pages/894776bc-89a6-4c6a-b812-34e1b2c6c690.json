@@ -22,16 +22,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "bold": true,
-                  "text": "Project Overview"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "This project is the culmination of an independent study conducted under the supervision of Dr. Tanya Clement during the summer of 2022. The project seeks to explore how archival rhetorics are employed in contemporary podcasting through an analysis of Jill Lepore’s podcast The Last Archive. Below, you will find annotations of the first four episodes of The Last Archive Season 1, which were completed using Audacity. While an essay abstract is included below, you may access the full essay by following the “Full Essay” link."
+                  "text": "Originally authored by Ali Gunnells and edited by Sam Turner, this project is the culmination of an independent study conducted under the supervision of Dr. Tanya Clement during the summer of 2022. The project explores how archival rhetorics are employed in contemporary podcasting through an analysis of Jill Lepore’s podcast The Last Archive. In the pages of this AVAnnotate project, you will find annotations of the first four episodes of The Last Archive Season 1, which were completed using Audacity. The project abstract is included below, and the full contextual essay can be found on the \"Context Essay\" page."
                 }
               ]
             },
@@ -63,7 +54,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Essay Abstract",
+                  "text": "Abstract",
                   "bold": true
                 }
               ]
@@ -137,6 +128,6 @@
   "slug": "project-overview",
   "created_at": "2025-03-07T16:35:04.174Z",
   "created_by": "saamturner",
-  "updated_at": "2025-03-07T16:35:04.174Z",
+  "updated_at": "2025-03-11T16:40:07.978Z",
   "updated_by": "saamturner"
 }
