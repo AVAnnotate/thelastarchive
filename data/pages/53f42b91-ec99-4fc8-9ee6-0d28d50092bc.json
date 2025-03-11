@@ -1,1 +1,46 @@
-{"content":[],"created_at":"2025-03-05T00:46:12.298Z","created_by":"saamturner","title":"Detection of Deception","slug":"detection-of-deception","updated_at":"2025-03-05T00:46:12.298Z","updated_by":"saamturner","parent":"0d316704-0091-4075-b4c3-d9f3d72c34dc","autogenerate":{"enabled":true,"type":"event","type_id":"ff80c536-9fc8-4849-b88b-2fcdc18cfeaa"}}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "ff80c536-9fc8-4849-b88b-2fcdc18cfeaa",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-05T00:46:12.298Z",
+  "created_by": "saamturner",
+  "title": "Detection of Deception",
+  "slug": "detection-of-deception",
+  "updated_at": "2025-03-11T15:02:14.175Z",
+  "updated_by": "saamturner",
+  "parent": "0d316704-0091-4075-b4c3-d9f3d72c34dc",
+  "autogenerate": {
+    "enabled": false,
+    "type": "event",
+    "type_id": "ff80c536-9fc8-4849-b88b-2fcdc18cfeaa"
+  }
+}
