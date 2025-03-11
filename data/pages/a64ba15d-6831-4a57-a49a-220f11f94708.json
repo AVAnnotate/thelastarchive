@@ -56,28 +56,11 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "event",
       "uuid": "6568f5c5-c01b-4e22-8b6e-84e5af53ea29",
       "includes": [
         "media",
-        "annotations",
-        "label"
+        "annotations"
       ],
       "children": [
         {
@@ -98,7 +81,7 @@
   "created_by": "saamturner",
   "title": "Episode 1: The Clue of the Blue Bottle",
   "slug": "episode-1-the-clue-of-the-blue-bottle",
-  "updated_at": "2025-03-11T15:58:30.303Z",
+  "updated_at": "2025-03-11T18:30:37.558Z",
   "updated_by": "saamturner",
   "parent": "0d316704-0091-4075-b4c3-d9f3d72c34dc",
   "autogenerate": {
