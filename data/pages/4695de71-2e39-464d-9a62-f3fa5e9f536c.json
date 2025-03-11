@@ -9,6 +9,77 @@
       ]
     },
     {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://archive.org/download/episode2image1/episode3image1.png",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://images.squarespace-cdn.com/content/v1/5e88c2ae99bce503300dc34b/1590528717346-M3APU7G72JNXMAX3B7XF/TLA_e3_YoungJillAsTheINVISIBLEGIRL.jpg?format=2500w",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "13a90694-6b9a-4610-b159-2aeb11b41982",
       "includes": [
@@ -35,7 +106,7 @@
   "created_by": "saamturner",
   "title": "The Invisible Lady",
   "slug": "the-invisible-lady",
-  "updated_at": "2025-03-11T16:33:19.060Z",
+  "updated_at": "2025-03-11T16:34:24.282Z",
   "updated_by": "saamturner",
   "parent": "0d316704-0091-4075-b4c3-d9f3d72c34dc",
   "autogenerate": {
