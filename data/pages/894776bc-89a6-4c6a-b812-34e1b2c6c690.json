@@ -123,7 +123,7 @@
   "title": "Project Overview",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "project-overview",
   "created_at": "2025-03-07T16:35:04.174Z",
