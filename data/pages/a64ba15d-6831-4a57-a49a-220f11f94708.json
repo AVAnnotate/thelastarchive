@@ -9,12 +9,97 @@
       ]
     },
     {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "S1E1: \"The Clue of the Blue Bottle\" "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://images.squarespace-cdn.com/content/v1/5e88c2ae99bce503300dc34b/1588813052651-6S91M682J2MANEK2R5U9/pasted+image+0.png?format=2500w",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "6568f5c5-c01b-4e22-8b6e-84e5af53ea29",
       "includes": [
         "media",
         "annotations",
-        "description"
+        "label"
       ],
       "children": [
         {
@@ -35,7 +120,7 @@
   "created_by": "saamturner",
   "title": "The Clue of the Blue Bottle",
   "slug": "the-clue-of-the-blue-bottle",
-  "updated_at": "2025-03-11T14:57:11.949Z",
+  "updated_at": "2025-03-11T14:59:36.366Z",
   "updated_by": "saamturner",
   "parent": "0d316704-0091-4075-b4c3-d9f3d72c34dc",
   "autogenerate": {
